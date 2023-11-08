@@ -1,0 +1,22 @@
+{
+  "name": "npm-package-zala",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Balbhadrasinh-zala/npm-package-zala.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Balbhadrasinh-zala/npm-package-zala/issues"
+  },
+  "homepage": "https://github.com/Balbhadrasinh-zala/npm-package-zala#readme",
+  "dependencies": {
+    "npm-package-zala": "^1.0.0"
+  }
+}
